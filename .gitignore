@@ -1,0 +1,10 @@
+Vencord/
+Installer/
+installer/
+bin/
+packs/
+node_modules/
+server/
+*.exe
+*.7z
+*.vencordpack
